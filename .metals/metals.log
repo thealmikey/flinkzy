@@ -1,0 +1,375 @@
+2025.03.19 17:41:19 INFO  Started: Metals version 1.4.2 in folders '/home/thealmikey/projects/flinkzy' for client Visual Studio Code 1.98.2.[0m
+2025.03.19 17:41:19 INFO  time: initialize in 0.11s[0m
+2025.03.19 17:41:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:42:45 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:46:35 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 5:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2025.03.19 17:46:38 WARN  no build target for: /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala[0m
+2025.03.19 17:46:38 WARN  no build target for: /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala[0m
+2025.03.19 17:46:38 WARN  no build target for: /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala[0m
+2025.03.19 17:46:38Mar 19, 2025 5:46:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+ WARN  no build target for: /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala[0m
+2025.03.19 17:46:38 WARN  no build target for: /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala[0m
+2025.03.19 17:46:38 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:46:38 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:46:38 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:46:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:47:34 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:47:34 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:47:35 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:47:35 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:52:57 WARN  no build target for: /home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:52:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:52:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:52:58 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:52:59 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:52:59 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:00 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:00 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:53:01 WARN  no build target for: /home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:53:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:01 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:53:02 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:02 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 17:53:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:19 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:24 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:24 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:24 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:25 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:25 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:25 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:29 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:30 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:32 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:32 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:33 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:33 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:34 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:34 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:35 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:34 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:35 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:36 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:36 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:37 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:37 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:40 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:40 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:53:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:53:40 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:43 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:43 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:43 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:43 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:43 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:45 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:45 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:45 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:46 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:46 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:46 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:47 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 17:56:52 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 17:56:52 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:20 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:20 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:20 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:20 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:00:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+2025.03.19 18:00:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 170
+Mar 19, 2025 6:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+2025.03.19 18:00:23 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:00:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:23 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:00:33 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:00:33 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:03 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:03 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:03 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:05 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:05 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:10 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:17 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:17 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:17 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:18 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:18 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:28 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:29 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:29 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:29 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:01:29 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:01:29 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:05:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:05:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:05:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+2025.03.19 18:05:03 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:05:03 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:05:05 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:05:05 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:07:14 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:46 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:46 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:46 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:07:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 241
+2025.03.19 18:07:48 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:07:50 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:13 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:14 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:14 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:14 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:14 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+Mar 19, 2025 6:08:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 250
+2025.03.19 18:08:15 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:21 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:08:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 270
+Mar 19, 2025 6:08:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 268
+Mar 19, 2025 6:08:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:08:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 276
+2025.03.19 18:08:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:24 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:24 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:25 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:25 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:26 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:27 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:28 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:28 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:08:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:40 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:42 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:42 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:08:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 330
+2025.03.19 18:08:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:08:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+2025.03.19 18:08:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:54 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:55 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:56 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:56 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:08:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 345
+2025.03.19 18:08:56 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:08:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 371
+2025.03.19 18:09:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:10 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:10 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:13 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:13 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:09:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 379
+2025.03.19 18:09:14 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:18 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:18 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:22 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:22 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:22 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 394
+2025.03.19 18:09:22 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 390
+Mar 19, 2025 6:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 396
+2025.03.19 18:09:22 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:24 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:23 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:24 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:26 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:27 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:28 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:46 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:47 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:50 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:51 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:53 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:55 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:55 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:55 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:56 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:09:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:00 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:00 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:01 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:02 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:02 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:05 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:05 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:06 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:06 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:09 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:09 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:09 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:12 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:12 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:13 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:16 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:16 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:17 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:18 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:18 WARN  no build target for: /home/thealmikey/projects/flinkzy/build.sbt[0m
+2025.03.19 18:10:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:10:20 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:12:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:12:11 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:12:35 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:12:56 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:13:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:13:04 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:13:04 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 18:13:12 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 19, 2025 6:13:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 519
+2025.03.19 18:15:10 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:16:15 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.19 18:16:18 WARN  Could not find semantic tokens for: file:///home/thealmikey/projects/flinkzy/project/plugin.sbt[0m
+2025.03.19 18:39:29 INFO  Started: Metals version 1.5.1 in folders '/home/thealmikey/projects/flinkzy' for client Visual Studio Code 1.98.2.
+2025.03.19 18:39:36 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 6:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Mar 19, 2025 6:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Mar 19, 2025 6:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Mar 19, 2025 6:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.03.19 18:39:42 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:42 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:42 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:45 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:45 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:49 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:50 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:53 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:53 INFO  time: code lens generation in 3.29s
+2025.03.19 18:39:53 INFO  time: code lens generation in 8.15s
+2025.03.19 18:39:53 INFO  time: code lens generation in 8.42s
+2025.03.19 18:39:54 INFO  no build target found for /home/thealmikey/projects/flinkzy/project/plugin.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:39:54 INFO  time: code lens generation in 9.02s
+2025.03.19 18:40:05 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:40:06 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:40:06 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:40:07 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:40:06 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.19 18:40:08 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 6:40:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:41:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:42:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.19 18:42:36 INFO  no build target found for /home/thealmikey/projects/flinkzy/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 19, 2025 6:42:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:43:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:43:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:43:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 19, 2025 6:43:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
