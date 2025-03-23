@@ -15320,3 +15320,222 @@ Mar 23, 2025 1:24:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 WARNING: Unsupported notification method: metals/windowStateDidChange
 Mar 23, 2025 1:24:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:25:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:26:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:34:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:34:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:55:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:55:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:55:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 1:56:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:29:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:30:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:31:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:34:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:34:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:34:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:51:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:51:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 16:51:56 INFO  time: code lens generation in 6.67s[0m
+Mar 23, 2025 4:52:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 4:52:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+Mar 23, 2025 4:53:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 5:44:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 5:44:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 5:51:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 17:51:19 INFO  time: code lens generation in 5.91s[0m
+Mar 23, 2025 5:51:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 5:52:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 5:53:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:05:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:06:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:06:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:07:21 INFO  Shutting down server[0m
+2025.03.23 18:07:21 INFO  shutting down Metals[0m
+2025.03.23 18:07:36 ERROR timeout: build server 'bloop' during shutdown[0m
+2025.03.23 18:07:36 ERROR timeout: build server 'bloop' during shutdown[0m
+2025.03.23 18:07:36 ERROR timeout: build server 'bloop' during shutdown[0m
+2025.03.23 18:14:50 INFO  Started: Metals version 1.5.1 in folders '/home/thealmikey/projects/flinkzy' for client Visual Studio Code 1.98.2.[0m
+2025.03.23 18:14:51 INFO  time: initialize in 0.88s[0m
+2025.03.23 18:15:02 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:15:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:15:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:30 INFO  Attempting to connect to the build server...[0m
+2025.03.23 18:15:30 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:31 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Mar 23, 2025 6:15:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:15:31 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:15:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:15:30 INFO  Found a Bloop server running[0m
+2025.03.23 18:15:31 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:34 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.[0m
+2025.03.23 18:15:34 ERROR Bloop server PID: 80733
+Ignoring SIGINT
+Will truncate output file /home/thealmikey/snap/code/187/.local/share/scalacli/bloop/daemon/output every 5 minutes
+Unable to load nailgun-version.properties.
+NGServer [UNKNOWN] started on local socket /home/thealmikey/snap/code/187/.local/share/scalacli/bloop/daemon/socket.
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+/home/thealmikey/snap/code/187/.local/share/scalacli/bloop
+[0m
+2025.03.23 18:15:34 ERROR Failed to connect with build server, no functionality will work.
+java.lang.RuntimeException: Bloop BSP connection in /home/thealmikey/snap/code/187/.local/share/scalacli/bloop/bsp/189207-1 was unexpectedly closed or bloop didn't start.
+	at scala.sys.package$.error(package.scala:27)
+	at bloop.rifle.internal.Operations$$anon$1.openSocket(Operations.scala:426)
+	at scala.meta.internal.metals.BloopServers.create$1(BloopServers.scala:384)
+	at scala.meta.internal.metals.BloopServers.openConnection$1(BloopServers.scala:400)
+	at scala.meta.internal.metals.BloopServers.$anonfun$connect$5(BloopServers.scala:413)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2025.03.23 18:15:52 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:53Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+ INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.03.23 18:15:53 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:15:53 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Mar 23, 2025 6:15:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:16:04 INFO  time: code lens generation in 30s[0m
+Mar 23, 2025 6:16:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:16:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:16:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 18:16:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:16:57 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:16:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:16:58 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 18:16:59 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar 23, 2025 6:17:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:18:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:18:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:19:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:20:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:21:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:21:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:21:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:22:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:47:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:47:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 6:48:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 7:34:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 23, 2025 7:34:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.23 19:34:16 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:16 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:18 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:19 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.23 19:34:21 INFO  no build target found for /home/thealmikey/projects/flinkzy/src/main/scala/MyMain.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m

@@ -28,3 +28,5 @@ taskmanager.numberOfTaskSlots: 1
 jobmanager.rpc.address: jobmanager
 blob.server.port: 6124
 query.server.port: 6125
+
+rest.sql-gateway.enabled: true
