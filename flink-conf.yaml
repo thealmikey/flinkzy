@@ -1,0 +1,15 @@
+# Increase RPC timeout to give TaskManagers more time to respond.
+akka.ask.timeout: 60 s
+
+# Set the global default parallelism (if not overridden in the job)
+default.parallelism: 1
+
+# Configure TaskManagers to offer only one slot each.
+taskmanager.numberOfTaskSlots: 1
+
+# Optionally lower the heap sizes to suit limited memory environments.
+jobmanager.heap.size: 512m
+taskmanager.heap.size: 512m
+
+# Specify the JobManager's RPC address (usually matching your Docker compose settings)
+jobmanager.rpc.address: jobmanager

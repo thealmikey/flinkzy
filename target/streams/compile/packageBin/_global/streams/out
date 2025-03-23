@@ -1,13 +1,9 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /home/thealmikey/projects/flinkzy/target/scala-3.6.4/flinkzy_3-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyMain$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/MyMain$package.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyMain$package$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/MyMain$package$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyMain$package.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/MyMain$package.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	helloWorld.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/helloWorld.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	helloWorld.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/helloWorld.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlinkZioRestApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/FlinkZioRestApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlinkZioRestApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/FlinkZioRestApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlinkZioRestApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/thealmikey/projects/flinkzy/target/scala-3.6.4/classes/FlinkZioRestApp.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

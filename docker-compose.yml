@@ -1,0 +1,18 @@
+services:
+  jobmanager:
+    image: mtu-flink:1.17.2-scala_2.12
+    container_name: flink-jobmanager
+    ports:
+      - "8081:8081"
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    command: jobmanager
+
+  taskmanager:
+    image: mtu-flink:1.17.2-scala_2.12
+    container_name: flink-taskmanager
+    depends_on:
+      - jobmanager
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    command: taskmanager
