@@ -1,18 +1,32 @@
 services:
   jobmanager:
-    image: mtu-flink:1.17.2-scala_2.12
+    image: tricky-flink:1.17.2-scala_2.12
     container_name: flink-jobmanager
     ports:
       - "8081:8081"
     environment:
-      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+      - JOBMANAGER_RPC_ADDRESS=jobmanager
     command: jobmanager
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1g  # Allocate 1GB for JobManager
+    volumes:
+      - ./flink-conf.yaml:/opt/flink/conf/flink-conf.yaml
 
   taskmanager:
-    image: mtu-flink:1.17.2-scala_2.12
+    image: tricky-flink:1.17.2-scala_2.12
     container_name: flink-taskmanager
     depends_on:
       - jobmanager
     environment:
-      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+      - JOBMANAGER_RPC_ADDRESS=jobmanager
     command: taskmanager
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1g  # Allocate 1GB for TaskManager (greater than 768m required by Flink)
+    volumes:
+      - ./flink-conf.yaml:/opt/flink/conf/flink-conf.yaml

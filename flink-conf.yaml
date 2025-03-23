@@ -1,15 +1,31 @@
-# Increase RPC timeout to give TaskManagers more time to respond.
+# JobManager process memory
+jobmanager.memory.process.size: 512m
+
+# RPC timeout setting for slower environments
 akka.ask.timeout: 60 s
 
-# Set the global default parallelism (if not overridden in the job)
+# Global default parallelism and single TaskManager slot
 default.parallelism: 1
-
-# Configure TaskManagers to offer only one slot each.
 taskmanager.numberOfTaskSlots: 1
 
-# Optionally lower the heap sizes to suit limited memory environments.
-jobmanager.heap.size: 512m
-taskmanager.heap.size: 512m
-
-# Specify the JobManager's RPC address (usually matching your Docker compose settings)
+# JobManager address for RPC communication
 jobmanager.rpc.address: jobmanager
+
+# TaskManager Memory Settings
+# Total Flink memory allocated to TaskManager (increased to 768m for sufficient room)
+taskmanager.memory.flink.size: 768m
+
+# Memory for Flink’s framework code
+taskmanager.memory.framework.heap: 128m
+taskmanager.memory.framework.off-heap: 64m
+
+# Memory for task execution (heap only)
+taskmanager.memory.task.heap: 128m
+taskmanager.memory.task.off-heap: 0m
+
+# Managed memory for state backends, caches, etc.
+taskmanager.memory.managed.size: 256m
+
+# Network memory (set both min and max to 64m)
+taskmanager.memory.network.min: 64m
+taskmanager.memory.network.max: 64m
