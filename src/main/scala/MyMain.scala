@@ -5,7 +5,7 @@ object FlinkZioRestApp extends ZIOAppDefault {
 
   val flinkUrl = "http://localhost:8081" // Adjust if needed
   // Replace YOUR_JAR_ID with the actual jar id from the Flink dashboard.
-  val jarRunEndpoint = s"$flinkUrl/jars/0fa8b0f3-a3e4-4184-b213-412690ebfb2f_FlinkJob-assembly-0.1.jar/run"
+  val jarRunEndpoint = s"$flinkUrl/jars/6fae3b3f-6dad-44c2-994e-bcb535c25fcb_FlinkJob-assembly-0.1.jar/run"
 
   // JSON payload for running the Flink job.
   val jobPayload =

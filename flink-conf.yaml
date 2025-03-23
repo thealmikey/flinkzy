@@ -1,16 +1,13 @@
-# --- Global Uniform Memory Settings ---
-# These values are used for both JobManager and TaskManager.
-# The sum of the following equals the Total Flink Memory of 1g:
-#   Framework Heap Memory:      256m
-#   Framework Off-Heap Memory:  128m
-#   Task Heap Memory:           256m
-#   Task Off-Heap Memory:         0m
-#   Managed Memory:             256m
-#   Network Memory (min):        64m
-#   Network Memory (max):        64m
-#
-# Total calculated: 256 + 128 + 256 + 0 + 256 + 64 + 64 = 1024m (1g)
+# Total Flink memory for both JobManager and TaskManager (1GB)
+jobmanager.memory.flink.size: 1g
+taskmanager.memory.flink.size: 1g
 
+# Process memory for JobManager increased to 1400m to cover Flink memory plus JVM metaspace overhead
+jobmanager.memory.process.size: 1400m
+# (Optionally, you can also set TaskManager process size if needed; we leave it to defaults or set it uniformly if desired)
+# taskmanager.memory.process.size: 1400m
+
+# Memory breakdown for both JobManager and TaskManager
 memory.framework.heap: 256m
 memory.framework.off-heap: 128m
 memory.task.heap: 256m
@@ -19,17 +16,15 @@ memory.managed.size: 256m
 memory.network.min: 64m
 memory.network.max: 64m
 
-# Set the total Flink memory for both JobManager and TaskManager.
-jobmanager.memory.flink.size: 1g
-taskmanager.memory.flink.size: 1g
+# Adjust JVM overhead for the JobManager so the derived value (120m) is acceptable.
+jobmanager.memory.jvm-overhead.min: 120m
+jobmanager.memory.jvm-overhead.max: 120m
 
-# Set the overall process size for the JobManager.
-jobmanager.memory.process.size: 1g
 
-# --- Global & Parallelism Settings ---
+# Other settings
 akka.ask.timeout: 60 s
 default.parallelism: 1
 taskmanager.numberOfTaskSlots: 1
-
-# RPC address for connecting JobManager and TaskManager
 jobmanager.rpc.address: jobmanager
+blob.server.port: 6124
+query.server.port: 6125

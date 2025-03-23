@@ -11,7 +11,7 @@ services:
       resources:
         limits:
           cpus: '0.5'
-          memory: 1g  # Allocate 1GB for JobManager
+          memory: 1.5g   # Increased to at least 1.5GB to match the updated process memory setting
     volumes:
       - ./flink-conf.yaml:/opt/flink/conf/flink-conf.yaml
 
@@ -27,6 +27,6 @@ services:
       resources:
         limits:
           cpus: '0.5'
-          memory: 1g  # Allocate 1GB for TaskManager (greater than 768m required by Flink)
+          memory: 1.5g   # Increased to provide headroom as well
     volumes:
       - ./flink-conf.yaml:/opt/flink/conf/flink-conf.yaml
