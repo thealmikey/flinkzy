@@ -1,31 +1,35 @@
-# JobManager process memory
-jobmanager.memory.process.size: 512m
+# --- Global Uniform Memory Settings ---
+# These values are used for both JobManager and TaskManager.
+# The sum of the following equals the Total Flink Memory of 1g:
+#   Framework Heap Memory:      256m
+#   Framework Off-Heap Memory:  128m
+#   Task Heap Memory:           256m
+#   Task Off-Heap Memory:         0m
+#   Managed Memory:             256m
+#   Network Memory (min):        64m
+#   Network Memory (max):        64m
+#
+# Total calculated: 256 + 128 + 256 + 0 + 256 + 64 + 64 = 1024m (1g)
 
-# RPC timeout setting for slower environments
+memory.framework.heap: 256m
+memory.framework.off-heap: 128m
+memory.task.heap: 256m
+memory.task.off-heap: 0m
+memory.managed.size: 256m
+memory.network.min: 64m
+memory.network.max: 64m
+
+# Set the total Flink memory for both JobManager and TaskManager.
+jobmanager.memory.flink.size: 1g
+taskmanager.memory.flink.size: 1g
+
+# Set the overall process size for the JobManager.
+jobmanager.memory.process.size: 1g
+
+# --- Global & Parallelism Settings ---
 akka.ask.timeout: 60 s
-
-# Global default parallelism and single TaskManager slot
 default.parallelism: 1
 taskmanager.numberOfTaskSlots: 1
 
-# JobManager address for RPC communication
+# RPC address for connecting JobManager and TaskManager
 jobmanager.rpc.address: jobmanager
-
-# TaskManager Memory Settings
-# Total Flink memory allocated to TaskManager (increased to 768m for sufficient room)
-taskmanager.memory.flink.size: 768m
-
-# Memory for Flink’s framework code
-taskmanager.memory.framework.heap: 128m
-taskmanager.memory.framework.off-heap: 64m
-
-# Memory for task execution (heap only)
-taskmanager.memory.task.heap: 128m
-taskmanager.memory.task.off-heap: 0m
-
-# Managed memory for state backends, caches, etc.
-taskmanager.memory.managed.size: 256m
-
-# Network memory (set both min and max to 64m)
-taskmanager.memory.network.min: 64m
-taskmanager.memory.network.max: 64m
